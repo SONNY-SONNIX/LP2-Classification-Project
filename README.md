@@ -4,8 +4,6 @@
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-<<<<<<< HEAD
 | LP2 Classification Project  | A Churn Prediction Analysis for Vodafone Group| [Article](https://medium.com/@otchie.sonny/maximizing-customer-retention-a-churn-prediction-analysis-for-vodafone-group-ee561f98a4cd) | [PowerBi ]() |
 =======
 | LP2 Classification Project | LP3_ Customer_Churn_Prediction| [Article](https://medium.com/@otchie.sonny/maximizing-customer-retention-a-churn-prediction-analysis-for-vodafone-group-ee561f98a4cd) | []() |
