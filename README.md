@@ -1,4 +1,3 @@
-# LP2-Classification-Project
 
 # LP2 Classification Project 
 *short project description*
