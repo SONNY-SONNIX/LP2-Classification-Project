@@ -29,9 +29,7 @@ Our project’s objectives are to:
 
 5. Evaluate the success of retention efforts and make modifications based on the model’s results.
 
-The project’s findings aim at helping Vodafone better understand customer churn and execute effective retention tactics to reduce customer attrition and improve revenue.
-
-## Setup
+The project’s findings aim at helping Vodafone better understand customer churn and execute effective retention tactics to reduce customer attrition and improvement
 
 
 
@@ -39,7 +37,7 @@ The project’s findings aim at helping Vodafone better understand customer chur
 
 # Other packages
 import os
->>>>>>> c948b2d2c181d8f12859c4d2f8959f5319df482b
+
 
 ## App Execution
 ...
