@@ -5,7 +5,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 Classification Project | LP2_ Customer_Churn_Prediction| [Article]([https://medium.com/@otchie.sonny/maximizing-customer-retention-a-churn-prediction-analysis-for-vodafone-group-ee561f98a4cd]) | []() |
+| LP2 Classification Project | LP2_ Customer_Churn_Prediction| [Article](https://medium.com/@otchie.sonny/maximizing-customer-retention-a-churn-prediction-analysis-for-vodafone-group-ee561f98a4cd) | []() |
 |  
 ## Project Description
 Customer attrition is a prevalent problem for many businesses, resulting in large financial losses. Customer churn or attrition in this project refers to the percentage of consumers that discontinue using a company’s product or service within a specified time frame. Understanding the primary causes of customer churn can assist businesses in developing effective retention strategies to reduce customer attrition and boost revenue. I propose to investigate how firms such as Vodafone Group can gain insights into customer behavior and factors that contribute to churn by analyzing historical customer data and applying predictive analytics. This enables the organization to take proactive measures to retain at-risk customers and improve overall customer satisfaction.
